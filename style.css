@@ -54,3 +54,11 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.orange-highlight{
+    color: orange;
+}
+
+.single-experience{
+    box-shadow: 10px 10px 40px red;
+    border-radius: 20px;
+}
