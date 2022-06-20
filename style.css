@@ -8,6 +8,10 @@ h1{
     font-size: 40px;
     color:blue;
 }
+
+p{
+    color: dimgray;
+}
 .second_heading{
     font-size: 30px;
     color: brown;
@@ -39,4 +43,14 @@ section{
     background-color: rgb(169, 169, 226);
     border-radius: 50px;
     color: white;
+}
+.big-dream{
+    font-size: 30px;
+    color: blue;
+}
+
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
