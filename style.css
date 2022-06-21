@@ -58,7 +58,24 @@ section{
     color: orange;
 }
 
+.experiences-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
 .single-experience{
     box-shadow: 10px 10px 40px red;
-    border-radius: 20px;
+    border-radius: 2px;
+    background-color: white;
+}
+#full-stack{
+    border-left: 5px solid red;
+    border-image: linear-gradient(180deg,red,blue);
+    border-image-slice: 1;
+}
+
+.footer{
+    text-align: center;
+    
 }
